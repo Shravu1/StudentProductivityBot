@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168259924258",
+    "project_id": "studentproductivitybot",
+    "storage_bucket": "studentproductivitybot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168259924258:android:fb3f3e2c8dec2cdc61357b",
+        "android_client_info": {
+          "package_name": "com.student.studentproductivitybot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65xlZnFMHPqLaPLZcNhBf7jGAxgGQqF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
